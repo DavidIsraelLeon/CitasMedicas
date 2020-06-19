@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/Tratamiento.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/bdconexion/BDConexion.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/Secretaria.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/Doctor.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/controlador/ControladorPersona.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/Diagnostico.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/TipoPago.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/Paciente.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/ConsultaMedica.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/Persona.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/Especialidad.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/HistoriaClinica.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/controlador/ControladorDoctor.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/controlador/ControladorCliente.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/CitaMedica.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/FacturaCabecera.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/DoctorEspecialidad.java</file>
+            <file>file:/C:/Users/dilgg/Documents/NetBeansProjects/CitasMedicas/src/ups/modelo/FacturaDetalle.java</file>
+        </group>
+    </open-files>
+</project-private>
